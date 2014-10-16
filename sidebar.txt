@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bjs:home|Door43 (bjs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bjs|d43-bjs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bjs/archive/master.zip|d43-bjs.zip]]
+
+**Recent Changes**
+{{changes>ns = bjs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bjs|Ethnologue data]]
+
